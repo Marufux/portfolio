@@ -48,10 +48,15 @@ body{
 section{
     display: flex;
     margin-bottom: 95px;
-    background-image: url(images/dream-bg.png);
+    
     background-repeat: no-repeat;
+}
+
+.mid{
+    background-image: url(images/dream-bg.png);
     background-position: right;
 }
+
 .whole1{
     width: 95%;
     margin-left: 20px;
@@ -78,5 +83,4 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
     
-}
 
